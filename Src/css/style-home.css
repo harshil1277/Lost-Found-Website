@@ -1,0 +1,12 @@
+.header_bg{
+    background-image: url(../images/1.jpg);
+    background-size: cover;
+    height: 200px;
+    
+}
+.submit-form:hover{
+    color: black;
+    background-color: aliceblue;
+}
+
+

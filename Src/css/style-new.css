@@ -1,0 +1,46 @@
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    width: 100%;
+ 
+    color: aliceblue;
+    word-wrap: break-word;
+}
+
+.headertop_desc{
+    background-image: url("../images/1.jpg");
+    background-size: cover;
+  background-position: center;
+}
+
+.categories h3{
+    background-image: url("../images/1.jpg");
+}
+ 
+.iitj-logo{
+    padding-left: 27%;
+}
+
+.slide h2 span{ 
+    color:#cb9f3d;
+    font-size:2em; 
+}
+.slide h5{
+    color: #888888;
+    font-size: 30px;
+}
+.wrap{
+    width: 100%;
+  
+
+}
+
+.features-box .features-box-icon {
+    color: black;
+}
+
+
+
+.codrops-top{
+    background-color: black;
+}
